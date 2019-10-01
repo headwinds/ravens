@@ -1,0 +1,1308 @@
+{
+    "users": [
+        {
+            "id": 3177834447,
+            "id_str": "3177834447",
+            "name": "Loblaw Digital",
+            "screen_name": "loblawdigital",
+            "location": "Toronto, Ontario",
+            "description": "Transforming the way Canadians shop. Want to join us? We're hiring!",
+            "url": "https:\/\/t.co\/qB4ha7qov1",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/qB4ha7qov1",
+                            "expanded_url": "http:\/\/loblawdigital.co",
+                            "display_url": "loblawdigital.co",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 885,
+            "friends_count": 214,
+            "listed_count": 24,
+            "created_at": "Fri Apr 17 19:53:19 +0000 2015",
+            "favourites_count": 398,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 424,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1143878495774400517\/3RitU5ZX_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1143878495774400517\/3RitU5ZX_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3177834447\/1446061847",
+            "profile_link_color": "000000",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 752518740726648832,
+            "id_str": "752518740726648832",
+            "name": "Keith Dykstra",
+            "screen_name": "keith_dykstra",
+            "location": "Washington, DC",
+            "description": "teaching tableau for @interworks | former math teacher + data analyst for  @kipp_dc  | foodie forever | tableau public profile https:\/\/t.co\/QDTZRY76EF",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/QDTZRY76EF",
+                            "expanded_url": "http:\/\/bit.ly\/KDviz",
+                            "display_url": "bit.ly\/KDviz",
+                            "indices": [
+                                127,
+                                150
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 286,
+            "friends_count": 80,
+            "listed_count": 7,
+            "created_at": "Mon Jul 11 15:03:43 +0000 2016",
+            "favourites_count": 344,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 203,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1156937011296710656\/g3xrmcgr_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1156937011296710656\/g3xrmcgr_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/752518740726648832\/1475154208",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 1105862126432894976,
+            "id_str": "1105862126432894976",
+            "name": "Lysandre",
+            "screen_name": "LysandreJik",
+            "location": "Brooklyn, NY",
+            "description": "ML engineer at Hugging Face \ud83e\udd17 Passionate about NLP",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 483,
+            "friends_count": 182,
+            "listed_count": 7,
+            "created_at": "Wed Mar 13 16:04:11 +0000 2019",
+            "favourites_count": 318,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 58,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1105862280439320578\/Io6_j4nY_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1105862280439320578\/Io6_j4nY_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1105862126432894976\/1560529631",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 1034844617261248512,
+            "id_str": "1034844617261248512",
+            "name": "Facebook AI",
+            "screen_name": "facebookai",
+            "location": "",
+            "description": "Facebook AI focuses on connecting people to what they care about, powering meaningful and safe experiences, advancing ML, and conducting open research.",
+            "url": "https:\/\/t.co\/N7kB0IAnlv",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/N7kB0IAnlv",
+                            "expanded_url": "https:\/\/ai.facebook.com\/blog",
+                            "display_url": "ai.facebook.com\/blog",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 33313,
+            "friends_count": 102,
+            "listed_count": 424,
+            "created_at": "Wed Aug 29 16:45:58 +0000 2018",
+            "favourites_count": 77,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 170,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1046835653416116224\/RLeImluE_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1046835653416116224\/RLeImluE_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1034844617261248512\/1538512996",
+            "profile_link_color": "FFFFFF",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 21149863,
+            "id_str": "21149863",
+            "name": "Cameron Wiese",
+            "screen_name": "camwiese",
+            "location": "New York, USA",
+            "description": "Into: Startups, Space Exploration, and Personal Development. Currently splitting time between NY & the PNW!",
+            "url": "https:\/\/t.co\/LBVyzRmXYc",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/LBVyzRmXYc",
+                            "expanded_url": "https:\/\/cameronwiese.com\/",
+                            "display_url": "cameronwiese.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 407,
+            "friends_count": 279,
+            "listed_count": 9,
+            "created_at": "Wed Feb 18 00:11:22 +0000 2009",
+            "favourites_count": 3735,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 50,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1163565942800080896\/8Mk71SFq_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1163565942800080896\/8Mk71SFq_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/21149863\/1541917699",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 216727067,
+            "id_str": "216727067",
+            "name": "Awais.dev",
+            "screen_name": "MrAhmadAwais",
+            "location": "\u276f \ud83c\udfa9 Full-time OpenSourcerer",
+            "description": "\ud83d\udc4c https:\/\/t.co\/prYKGkKoNj\n\ud83e\udd51 DevRel\n\ud83c\udf33 @Nodejs CommComm\n\ud83e\udd8a @GoogleDevExpert\n\ud83d\udc7b @WordPress Core\n\ud83d\ude0e @SmashingMag Experts Panel\n\ud83d\udce3 @TEDx Speaker\n\u270d\ufe0f @Scotch_io\n\ud83d\udc9c @MaedahBatool",
+            "url": "https:\/\/t.co\/jdklrdR0qm",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/jdklrdR0qm",
+                            "expanded_url": "https:\/\/AhmadAwais.com",
+                            "display_url": "AhmadAwais.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/prYKGkKoNj",
+                            "expanded_url": "http:\/\/VSCode.pro",
+                            "display_url": "VSCode.pro",
+                            "indices": [
+                                2,
+                                25
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 17158,
+            "friends_count": 9339,
+            "listed_count": 318,
+            "created_at": "Wed Nov 17 15:07:38 +0000 2010",
+            "favourites_count": 27979,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 55036,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": true,
+            "profile_background_color": "EBEBEB",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/911938211328512000\/ULst1mrB_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/911938211328512000\/ULst1mrB_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/216727067\/1542026866",
+            "profile_link_color": "6B00FE",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F3F3F3",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "regular"
+        },
+        {
+            "id": 274703970,
+            "id_str": "274703970",
+            "name": "Dominic Nguyen",
+            "screen_name": "domyen",
+            "location": "NYC",
+            "description": "Ever curious. Design @ChromaUI + @Storybookjs previously @ApolloGraphQL. rnb fan, adv moto",
+            "url": "https:\/\/t.co\/Gof9I2h4O9",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/Gof9I2h4O9",
+                            "expanded_url": "http:\/\/hichroma.com",
+                            "display_url": "hichroma.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1888,
+            "friends_count": 249,
+            "listed_count": 67,
+            "created_at": "Wed Mar 30 21:53:31 +0000 2011",
+            "favourites_count": 1882,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1510,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "EEEEEE",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1035176977953644546\/9kUwOX2G_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1035176977953644546\/9kUwOX2G_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/274703970\/1535488176",
+            "profile_link_color": "666666",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "FFFFFF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 864995929325060097,
+            "id_str": "864995929325060097",
+            "name": "Storybook",
+            "screen_name": "storybookjs",
+            "location": "",
+            "description": "Storybook is a development environment for UI components. Browse the component library, view the different states, and interactively develop & test.",
+            "url": "https:\/\/t.co\/ePcQaROvSH",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/ePcQaROvSH",
+                            "expanded_url": "http:\/\/storybook.js.org",
+                            "display_url": "storybook.js.org",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4742,
+            "friends_count": 192,
+            "listed_count": 72,
+            "created_at": "Thu May 18 00:07:55 +0000 2017",
+            "favourites_count": 1716,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 910,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1100804485616566273\/sOct-Txm_normal.png",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1100804485616566273\/sOct-Txm_normal.png",
+            "profile_link_color": "ED5A87",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 879532287284719616,
+            "id_str": "879532287284719616",
+            "name": "Alexander Garcia \ud83d\udc0d\u269b\ufe0f\ud83d\ude80",
+            "screen_name": "asg5704",
+            "location": "Annapolis, MD",
+            "description": "Software Developer @ Alpha Omega Integration. \n#WizardsInTech \u26a1 Gryffindor \ud83e\udd81\n#Vuejs, #React, #Python, #Go. \nLikes: AI, JAMstacks, Puzzles, Dinosaurs and Space",
+            "url": "https:\/\/t.co\/sjPxhVaV3r",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/sjPxhVaV3r",
+                            "expanded_url": "https:\/\/alexandergarcia.me",
+                            "display_url": "alexandergarcia.me",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 841,
+            "friends_count": 1733,
+            "listed_count": 5,
+            "created_at": "Tue Jun 27 02:50:12 +0000 2017",
+            "favourites_count": 16569,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2653,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/913952385202081792\/4qoRqOuk_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/913952385202081792\/4qoRqOuk_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/879532287284719616\/1566687370",
+            "profile_link_color": "564866",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 56562803,
+            "id_str": "56562803",
+            "name": "Peter Schiff",
+            "screen_name": "PeterSchiff",
+            "location": "Fully Updated Book!",
+            "description": "CEO: Euro Pacific Capital https:\/\/t.co\/S5Amlx5QVt Chairman: SchiffGold https:\/\/t.co\/Wc7EWe2I0R Host: Peter Schiff Show https:\/\/t.co\/PISh4vcdKe",
+            "url": "https:\/\/t.co\/QaPiD7gJO4",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/QaPiD7gJO4",
+                            "expanded_url": "http:\/\/amzn.to\/1nDylDr",
+                            "display_url": "amzn.to\/1nDylDr",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/S5Amlx5QVt",
+                            "expanded_url": "http:\/\/europac.com",
+                            "display_url": "europac.com",
+                            "indices": [
+                                26,
+                                49
+                            ]
+                        },
+                        {
+                            "url": "https:\/\/t.co\/Wc7EWe2I0R",
+                            "expanded_url": "http:\/\/schiffgold.com",
+                            "display_url": "schiffgold.com",
+                            "indices": [
+                                71,
+                                94
+                            ]
+                        },
+                        {
+                            "url": "https:\/\/t.co\/PISh4vcdKe",
+                            "expanded_url": "http:\/\/schiffradio.com",
+                            "display_url": "schiffradio.com",
+                            "indices": [
+                                119,
+                                142
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 163397,
+            "friends_count": 255,
+            "listed_count": 2693,
+            "created_at": "Tue Jul 14 01:28:42 +0000 2009",
+            "favourites_count": 72,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 11880,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/958532725467680768\/NrEbICRM_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/958532725467680768\/NrEbICRM_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/56562803\/1399667513",
+            "profile_link_color": "003CA3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "81ADE3",
+            "profile_text_color": "4977C7",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 857372550241726464,
+            "id_str": "857372550241726464",
+            "name": "Actions on Google",
+            "screen_name": "ActionsOnGoogle",
+            "location": "",
+            "description": "We want to hear from you! Use #AoGDevs to share what you've built using Actions on Google, which events you've attended, and anything else we should know.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 10934,
+            "friends_count": 17,
+            "listed_count": 131,
+            "created_at": "Wed Apr 26 23:15:20 +0000 2017",
+            "favourites_count": 155,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": true,
+            "statuses_count": 349,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/857641506936569856\/0EDHyq51_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/857641506936569856\/0EDHyq51_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/857372550241726464\/1557863909",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 2774598458,
+            "id_str": "2774598458",
+            "name": "Dialogflow",
+            "screen_name": "Dialogflow",
+            "location": "",
+            "description": "Build engaging voice & text-based conversational experiences for web, apps, the Google Assistant, Amazon Alexa, Facebook Messenger, + other platforms & devices.",
+            "url": "https:\/\/t.co\/a6riYc8bLh",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/a6riYc8bLh",
+                            "expanded_url": "https:\/\/dialogflow.com\/",
+                            "display_url": "dialogflow.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11016,
+            "friends_count": 1552,
+            "listed_count": 404,
+            "created_at": "Wed Aug 27 20:58:16 +0000 2014",
+            "favourites_count": 715,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 780,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme15\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/880147119528476672\/S7C-2C6t_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/880147119528476672\/S7C-2C6t_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2774598458\/1516905644",
+            "profile_link_color": "EF6C00",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 816364272452128768,
+            "id_str": "816364272452128768",
+            "name": "Material Design",
+            "screen_name": "materialdesign",
+            "location": "Google, Mountain View, CA",
+            "description": "Material is an adaptable design system\u2014backed by open-source code\u2014that helps teams easily build high-quality digital experiences.",
+            "url": "https:\/\/t.co\/lVxk6daVIb",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/lVxk6daVIb",
+                            "expanded_url": "http:\/\/material.io",
+                            "display_url": "material.io",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 34041,
+            "friends_count": 5,
+            "listed_count": 510,
+            "created_at": "Tue Jan 03 19:23:04 +0000 2017",
+            "favourites_count": 495,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 426,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/925576484122779648\/ucVTUoPg_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/925576484122779648\/ucVTUoPg_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/816364272452128768\/1557246977",
+            "profile_link_color": "757575",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 16933019,
+            "id_str": "16933019",
+            "name": "AukeHoekstra",
+            "screen_name": "AukeHoekstra",
+            "location": "The Hague - The Netherlands",
+            "description": "News and calculations on electric vehicles, solar, wind and smart grids.\nResearcher @TUeindhoven.\nFounder and architect https:\/\/t.co\/7cj21DVcq4.",
+            "url": "https:\/\/t.co\/lTpbXwfr3f",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/lTpbXwfr3f",
+                            "expanded_url": "http:\/\/www.aukehoekstra.nl",
+                            "display_url": "aukehoekstra.nl",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/7cj21DVcq4",
+                            "expanded_url": "http:\/\/ZEnMo.com",
+                            "display_url": "ZEnMo.com",
+                            "indices": [
+                                120,
+                                143
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 8906,
+            "friends_count": 210,
+            "listed_count": 213,
+            "created_at": "Thu Oct 23 19:04:49 +0000 2008",
+            "favourites_count": 11640,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 20987,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme5\/bg.gif",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme5\/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1114500018076102656\/Omc44m1x_normal.png",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1114500018076102656\/Omc44m1x_normal.png",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 2967221722,
+            "id_str": "2967221722",
+            "name": "Abigail See",
+            "screen_name": "abigail_e_see",
+            "location": "Stanford, CA",
+            "description": "PhD student at @stanfordnlp, #CS224n co-instructor. I aim to communicate technical concepts in an accessible way. Writing at https:\/\/t.co\/E6j6eCSHYr",
+            "url": "https:\/\/t.co\/GghYoLHaIX",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/GghYoLHaIX",
+                            "expanded_url": "http:\/\/cs.stanford.edu\/people\/abisee\/",
+                            "display_url": "cs.stanford.edu\/people\/abisee\/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/E6j6eCSHYr",
+                            "expanded_url": "http:\/\/www.abigailsee.com",
+                            "display_url": "abigailsee.com",
+                            "indices": [
+                                125,
+                                148
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 5423,
+            "friends_count": 439,
+            "listed_count": 117,
+            "created_at": "Thu Jan 08 03:30:06 +0000 2015",
+            "favourites_count": 2076,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 292,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/851572218987372544\/QNQFZugz_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/851572218987372544\/QNQFZugz_normal.jpg",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 1044298030512570368,
+            "id_str": "1044298030512570368",
+            "name": "Anna Rogers",
+            "screen_name": "annargrs",
+            "location": "Boston, MA",
+            "description": "Post-doc at UMass. Worrying about meaning representations, NLP methodology, and computational social science.",
+            "url": "https:\/\/t.co\/mx9Bwf7YMM",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/mx9Bwf7YMM",
+                            "expanded_url": "http:\/\/www.cs.uml.edu\/~arogers\/",
+                            "display_url": "cs.uml.edu\/~arogers\/",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 585,
+            "friends_count": 156,
+            "listed_count": 10,
+            "created_at": "Mon Sep 24 18:50:27 +0000 2018",
+            "favourites_count": 147,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 196,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1044301560153612289\/zu9L8WlF_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1044301560153612289\/zu9L8WlF_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 1091789911185915904,
+            "id_str": "1091789911185915904",
+            "name": "Wholesome Games",
+            "screen_name": "_wholesomegames",
+            "location": "",
+            "description": "Brightening your day with cute, friendly, compassionate, cozy #videogames | Please send me your recommendations!",
+            "url": "https:\/\/t.co\/7Kws1SjKbv",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/7Kws1SjKbv",
+                            "expanded_url": "https:\/\/linktr.ee\/wholesomegames",
+                            "display_url": "linktr.ee\/wholesomegames",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12097,
+            "friends_count": 490,
+            "listed_count": 70,
+            "created_at": "Sat Feb 02 20:06:14 +0000 2019",
+            "favourites_count": 2574,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 671,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1121768172883980290\/dFznjT7M_normal.png",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1121768172883980290\/dFznjT7M_normal.png",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/1091789911185915904\/1556220980",
+            "profile_link_color": "FCE7E2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 39205591,
+            "id_str": "39205591",
+            "name": "Claire Blackshaw",
+            "screen_name": "EvilKimau",
+            "location": "London",
+            "description": "Creative Programmer doing new things. Personal Account & Views. Code Molecule for #DreamsPS4",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2038,
+            "friends_count": 404,
+            "listed_count": 104,
+            "created_at": "Mon May 11 06:26:54 +0000 2009",
+            "favourites_count": 4471,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 23357,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0A0F0",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1034862139675234310\/IqQQ-OGC_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1034862139675234310\/IqQQ-OGC_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/39205591\/1479727625",
+            "profile_link_color": "22112B",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "EED5FF",
+            "profile_text_color": "120012",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 734568179457007617,
+            "id_str": "734568179457007617",
+            "name": "\u12e8\u120d\u1355\u12ea\u130e\u122d\u1315",
+            "screen_name": "PatVanMack",
+            "location": "Windsor, Ontario",
+            "description": "Father of 3, husband to a wife. Just came here to post random crap and share things that may be interesting.\n\nDeveloping a game called Brother Brother.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 335,
+            "friends_count": 158,
+            "listed_count": 20,
+            "created_at": "Mon May 23 02:14:36 +0000 2016",
+            "favourites_count": 1030,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 679,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1155638227799281665\/1Q_0ROoP_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1155638227799281665\/1Q_0ROoP_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/734568179457007617\/1564360600",
+            "profile_link_color": "5FBE70",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        },
+        {
+            "id": 15632695,
+            "id_str": "15632695",
+            "name": "Chris 'Bam' Harrison",
+            "screen_name": "BamHarrison",
+            "location": "Melbourne, Australia",
+            "description": "I play Video Games and share uninformed Football (Sokkah) opinions. I'm a UX Designer when I want money. I write about UX and games, so click the link pls.",
+            "url": "https:\/\/t.co\/l93WyezRhw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https:\/\/t.co\/l93WyezRhw",
+                            "expanded_url": "https:\/\/medium.com\/@christopherbamharrison",
+                            "display_url": "medium.com\/@christopherba\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 287,
+            "friends_count": 314,
+            "listed_count": 9,
+            "created_at": "Mon Jul 28 14:54:08 +0000 2008",
+            "favourites_count": 530,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1677,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/1006326226221346816\/9aw6l-oC_normal.jpg",
+            "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/1006326226221346816\/9aw6l-oC_normal.jpg",
+            "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/15632695\/1507508983",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": true,
+            "live_following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "muting": false,
+            "blocking": false,
+            "blocked_by": false,
+            "translator_type": "none"
+        }
+    ],
+    "next_cursor": 1641771946764453616,
+    "next_cursor_str": "1641771946764453616",
+    "previous_cursor": -1642121123986486435,
+    "previous_cursor_str": "-1642121123986486435",
+    "total_count": null
+}
